@@ -7,7 +7,7 @@ package _07_riddler;
 public class TheRiddler {
 
 	public static void main(String[] args) {
-
+System.out.println("hello");
 		// 1. Make a variable to hold the score
 
 		// 3. Ask the user a riddle. Here are some ideas: bit.ly/some-riddles
